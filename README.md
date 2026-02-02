@@ -6,8 +6,6 @@
 
 - 🌱 I'm currently learning **Generative AI, Agentic AI and MLOps**
 
-- 📫 How to reach me **jsm.dgme@gmail.com**
-
 - 👨‍💻 All of my projects are available at **[https://github.com/jsuryanm](https://github.com/jsuryanm)**
 
 <h3 align="left">Connect with me:</h3>
