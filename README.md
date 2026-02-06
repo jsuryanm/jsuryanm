@@ -2,7 +2,7 @@
 
 ###  Building End-to-End AI Systems
 
-- 🔭 I'm currently working on **end-to-end text summarization system**
+- 🔭 I'm currently working on **end-to-end fog vehicle detection system**
 
 - 🌱 I'm currently learning **Generative AI, Agentic AI and MLOps**
 
