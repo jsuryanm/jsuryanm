@@ -2,7 +2,7 @@
 
 ###  Building End-to-End AI Systems
 
-- 🔭 I'm currently working on **end-to-end fog vehicle detection system**
+- 🔭 I'm currently working on **medical image segmentation using UNet and SOTA (SAM-3) models**
 
 - 🌱 I'm currently learning **Generative AI, Agentic AI and MLOps**
 
