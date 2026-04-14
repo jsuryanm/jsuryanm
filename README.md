@@ -4,13 +4,11 @@
 
 - 🔭 I'm currently working on **medical image segmentation using UNet and SOTA (SAM-3) models**
 
-- 🌱 I'm currently learning **Generative AI, Agentic AI and MLOps**
-
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Computer Vision**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Computer Vision, Agentic AI**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/jsuryanm)**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/18A0D-eUAn-i0xm5cN4Xi93vLMMiJdif8/view)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1FyjrP-cjZ2XT-sZryXYYK6zKtNoBf-Zx/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
